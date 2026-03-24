@@ -1,16 +1,17 @@
 # Luana Benati
 
-<!--
-**Luanabenati/Luanabenati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou a Luana Benati! 👋
 
-Here are some ideas to get you started:
+💻 Desenvolvedora de Sistemas em Formação 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, sou estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI**, onde estou mergulhando no mundo da programação e construção de soluções digitais. 
+
+
+
+  🙋‍♀️Sobre Mim:
+- 🎓 Cursando Técnico em Desenvolvimento de Sistemas (SENAI).
+- 📜 Certificada em **Gestão do Conhecimento e Mapeamento de Competências**, trazendo uma visão estratégica para o desenvolvimento técnico.
+
+
+
+
